@@ -1,0 +1,5 @@
+version: "3"
+services:
+  home-media-server:
+    build: .
+    image: valentinnew/home-media-server
